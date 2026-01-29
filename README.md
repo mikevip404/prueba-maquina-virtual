@@ -46,14 +46,6 @@ Este entorno es ideal para:
 * **Testing:** Probar aplicaciones sospechosas o nuevas herramientas sin comprometer tu equipo personal.
 * **Navegación Segura:** Acceso a Windows online totalmente gratuito.
 
----
-
-## 🤝 Contribuciones y Soporte
-
-Si este proyecto te ha sido útil, considera:
-* Darle una ⭐ al repositorio.
-* Suscribirte al canal para futuras actualizaciones y mejoras.
-* Reportar cualquier error abriendo un *Issue*.
 
 ---
 > **Nota:** Este proyecto se distribuye con fines educativos y de prueba. Asegúrate de cumplir con los términos de servicio de las plataformas utilizadas.
